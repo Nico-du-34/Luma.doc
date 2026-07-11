@@ -18,9 +18,25 @@ Commence par ces pages :
 
 Lis ensuite les règles liées à ton rôle :
 
-* [Police - SASP](https://app.gitbook.com/s/XuNHWBdUeOFtjCuzDNyG/police-sasp)
-* [Médical - SAMS](https://app.gitbook.com/s/XuNHWBdUeOFtjCuzDNyG/medical-sams)
-* [Entreprises RP](https://app.gitbook.com/s/XuNHWBdUeOFtjCuzDNyG/entreprises-rp)
-* [Illégal RP](https://app.gitbook.com/s/XuNHWBdUeOFtjCuzDNyG/illegal-rp)
+* [Police - SASP](police-sasp/mission-de-la-sasp.md)
+* [Médical - SAMS](medical-sams/mission-du-sams.md)
+* [Entreprises RP](entreprises-rp/reglement-entreprises-rp.md)
+* [Illégal RP](illegal-rp/reglement-illegal-rp.md)
 
 En cas de doute, applique la règle la plus claire. Si besoin, fais un report.
+
+## Publication GitHub Pages
+
+Ce dépôt peut être publié sur GitHub Pages via mdBook et GitHub Actions.
+
+1. Dans **GitHub → Settings → Pages** du dépôt `PN-ProjectNexus/Luma.doc`, choisis **Source : GitHub Actions** (pas la branche `gh-pages`).
+2. Pousse sur la branche `main` pour déclencher le workflow de déploiement.
+3. Le site sera disponible à l’adresse : `https://pn-projectnexus.github.io/Luma.doc/`
+
+Pour tester en local :
+
+```bash
+python scripts/prepare-mdbook.py
+mdbook build
+mdbook serve
+```

@@ -1,0 +1,12 @@
+[book]
+title = "LUMA Roleplay"
+authors = ["PN-ProjectNexus"]
+language = "fr"
+src = "_mdbook_build"
+
+[output.html]
+site-url = "/Luma.doc/"
+git-repository-url = "https://github.com/PN-ProjectNexus/Luma.doc"
+edit-url-template = "https://github.com/PN-ProjectNexus/Luma.doc/edit/main/{path}"
+default-theme = "rust"
+preferred-dark-theme = "navy"

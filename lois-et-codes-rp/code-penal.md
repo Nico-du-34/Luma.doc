@@ -7,7 +7,7 @@ icon: scale-balanced
 
 Le code pénal qualifie les infractions commises en RP. Il sert à nommer les faits et à guider la sanction.
 
-Cette page pose le cadre général. Les montants et durées détaillés relèvent des [Barèmes](https://app.gitbook.com/s/XuNHWBdUeOFtjCuzDNyG/baremes).
+Cette page pose le cadre général. Les montants et durées détaillés relèvent des [Barèmes](../baremes/bareme-des-amendes-et-peines.md).
 
 ### Principes d’application
 

@@ -47,7 +47,7 @@ Une procédure peut être fragilisée si :
 * la mesure dépasse son cadre
 * la preuve a été obtenue de manière irrégulière
 
-Ces situations peuvent créer un vice de procédure. Consulte aussi [Justice RP](https://app.gitbook.com/s/XuNHWBdUeOFtjCuzDNyG/justice-rp).
+Ces situations peuvent créer un vice de procédure. Consulte aussi [Justice RP](../justice-rp/procedure-penale.md).
 
 ### Règle pratique
 
