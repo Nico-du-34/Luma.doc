@@ -13,6 +13,21 @@ Cette page encadre le travail du SAMS. Le but est de garantir des interventions 
 * respecter les limites de mort RP
 * éviter les retours immédiats irréalistes
 
+### Limites médicales
+
+La réanimation n’efface pas la scène. Après une blessure lourde, le patient doit garder une conséquence RP : douleur, fatigue, confusion, impossibilité de reprendre immédiatement un combat ou une poursuite.
+
+Le SAMS peut refuser une réanimation immédiate si la zone est trop dangereuse. La sécurité de l’équipe médicale passe avant la rapidité.
+
+### Après réanimation
+
+Le patient doit :
+
+* rester quelques minutes sous surveillance si la blessure est grave
+* accepter un transport si son état le justifie
+* éviter de retourner directement dans la scène violente
+* respecter les consignes médicales annoncées
+
 ### Bonnes pratiques
 
 * rester cohérent avec la scène en cours

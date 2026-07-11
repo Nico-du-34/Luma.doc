@@ -8,10 +8,13 @@ Cette page précise le cadre d’application du barème. Les montants, durées o
 
 ### Règles principales
 
-* grand excès de vitesse
-* fuite motorisée
-* conduite sous menace ou mise en danger
-* récidive routière
+| Situation | Durée indicative |
+| --- | ---: |
+| Grand excès de vitesse | 24 h à 3 jours |
+| Conduite dangereuse en ville | 1 à 7 jours |
+| Accident grave responsable | 3 à 14 jours |
+| Fuite motorisée | 7 à 30 jours |
+| Récidive routière lourde | décision judiciaire |
 
 ### Bonnes pratiques
 

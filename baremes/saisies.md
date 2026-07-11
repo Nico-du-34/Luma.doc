@@ -8,10 +8,13 @@ Cette page précise le cadre d’application du barème. Les montants, durées o
 
 ### Règles principales
 
-* bien pouvant servir de preuve
-* bien obtenu de manière suspecte
-* objet dangereux
-* véhicule impliqué dans une scène
+| Bien saisi | Cadre conseillé |
+| --- | --- |
+| Arme illégale | confiscation ou preuve d’enquête |
+| Drogue ou marchandise illégale | preuve, destruction RP ou dossier judiciaire |
+| Argent suspect | saisie temporaire le temps de l’enquête |
+| Véhicule impliqué | fourrière, saisie ou perquisition selon les faits |
+| Objet lié à une victime | restitution si l’origine est confirmée |
 
 ### Bonnes pratiques
 

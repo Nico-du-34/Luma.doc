@@ -8,10 +8,13 @@ Cette page précise le cadre d’application du barème. Les montants, durées o
 
 ### Règles principales
 
-* objet illégal identifié
-* arme utilisée dans une scène criminelle
-* argent ou bien lié à une enquête
-* matériel dangereux pour la sécurité publique
+| Objet | Décision possible |
+| --- | --- |
+| Arme sans licence | confiscation |
+| Arme utilisée dans un crime | confiscation et preuve |
+| Drogue | confiscation et destruction RP |
+| Faux papiers ou matériel illégal | confiscation |
+| Véhicule récidiviste ou lourdement impliqué | confiscation judiciaire possible |
 
 ### Bonnes pratiques
 

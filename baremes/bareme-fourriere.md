@@ -8,10 +8,13 @@ Cette page précise le cadre d’application du barème. Les montants, durées o
 
 ### Règles principales
 
-* stationnement gênant ou dangereux
-* véhicule abandonné sur voie publique
-* véhicule utilisé dans une infraction
-* refus de déplacer un véhicule après consigne
+| Situation | Mesure conseillée |
+| --- | --- |
+| Stationnement gênant simple | avertissement ou petite amende |
+| Stationnement dangereux | fourrière et amende |
+| Véhicule abandonné sur voie publique | fourrière |
+| Véhicule impliqué dans une infraction | saisie temporaire ou fourrière |
+| Refus de déplacer après consigne | amende aggravée et fourrière |
 
 ### Bonnes pratiques
 
@@ -19,6 +22,12 @@ Cette page précise le cadre d’application du barème. Les montants, durées o
 * expliquer les décisions importantes aux personnes concernées
 * garder une trace lorsqu’un litige est possible
 * faire appel au staff seulement si le cadre RP ne suffit plus
+
+### Frais indicatifs
+
+* sortie simple : 500 à 1 500 $
+* stationnement dangereux : 1 500 à 3 000 $
+* intervention liée à une infraction : 3 000 à 8 000 $
 
 ### À retenir
 

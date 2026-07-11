@@ -1,25 +1,38 @@
 # Peines complémentaires
 
-Les peines complémentaires s’ajoutent à une amende ou à une peine principale lorsque la situation le justifie.
+Les peines complémentaires s’ajoutent à une amende, une peine de prison ou une décision judiciaire lorsque la situation le justifie.
 
-### Cadre
+### Objectif
 
-Cette page précise le cadre d’application du barème. Les montants, durées ou mesures doivent rester cohérents avec la gravité des faits et avec la scène jouée.
+Une peine complémentaire doit réparer, limiter un risque ou créer une suite RP. Elle ne doit pas servir à humilier ou bloquer durablement un personnage.
 
-### Règles principales
+### Mesures possibles
 
-* travaux d’intérêt général
-* interdiction temporaire d’activité
-* obligation de réparation
-* restriction liée à une récidive
+| Mesure | Usage conseillé | Durée indicative |
+| --- | --- | ---: |
+| Travaux d’intérêt général | petite récidive, réparation symbolique | 10 à 30 minutes RP |
+| Obligation de réparation | dégradation, vol, préjudice civil | selon le dommage |
+| Interdiction de contact | menaces, harcèlement RP, conflit privé | 24 h à 7 jours |
+| Interdiction de zone | trouble répété dans un lieu précis | 24 h à 7 jours |
+| Interdiction d’activité | abus d’un métier ou d’une licence | 1 à 14 jours |
+| Suivi judiciaire | récidive ou affaire sensible | durée fixée par juge |
 
-### Bonnes pratiques
+### Exemples
 
-* rester cohérent avec la scène en cours
-* expliquer les décisions importantes aux personnes concernées
-* garder une trace lorsqu’un litige est possible
-* faire appel au staff seulement si le cadre RP ne suffit plus
+* un chauffeur dangereux peut recevoir une suspension de permis
+* un employé frauduleux peut être interdit temporairement de gestion d’entreprise
+* un agresseur peut recevoir une interdiction de contact avec la victime
+* un groupe impliqué dans un trafic peut subir des saisies ciblées
+
+### Conditions
+
+La décision doit préciser :
+
+* la mesure imposée
+* la durée ou la condition de fin
+* la raison RP
+* l’autorité qui l’a prononcée
 
 ### À retenir
 
-Elles doivent créer du RP utile et rester proportionnées.
+Elles doivent rester proportionnées, vérifiables et utiles au RP.
