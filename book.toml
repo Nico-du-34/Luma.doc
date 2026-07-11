@@ -5,7 +5,8 @@ language = "fr"
 src = "_mdbook_build"
 
 [output.html]
-site-url = "/Luma.doc/"
+site-url = "https://luma.anzoris.fr/"
+cname = "luma.anzoris.fr"
 git-repository-url = "https://github.com/PN-ProjectNexus/Luma.doc"
 edit-url-template = "https://github.com/PN-ProjectNexus/Luma.doc/edit/main/{path}"
 default-theme = "rust"

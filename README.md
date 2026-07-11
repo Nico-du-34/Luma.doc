@@ -27,11 +27,12 @@ En cas de doute, applique la règle la plus claire. Si besoin, fais un report.
 
 ## Publication GitHub Pages
 
-Ce dépôt peut être publié sur GitHub Pages via mdBook et GitHub Actions.
+Ce dépôt est publié sur GitHub Pages via mdBook et GitHub Actions.
 
 1. Dans **GitHub → Settings → Pages** du dépôt `PN-ProjectNexus/Luma.doc`, choisis **Source : GitHub Actions** (pas la branche `gh-pages`).
-2. Pousse sur la branche `main` pour déclencher le workflow de déploiement.
-3. Le site sera disponible à l’adresse : `https://pn-projectnexus.github.io/Luma.doc/`
+2. Dans **Custom domain**, indique `luma.anzoris.fr` (mdBook génère le fichier `CNAME` à la racine du site lors du build).
+3. Pousse sur la branche `main` pour déclencher le workflow de déploiement.
+4. Le site est disponible à l’adresse : `https://luma.anzoris.fr/`
 
 Pour tester en local :
 
