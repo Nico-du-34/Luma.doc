@@ -1,4 +1,4 @@
-# Droits des citoyens
+# 🧑‍⚖️ Droits des citoyens
 
 Cette page rappelle les droits pratiques d’un citoyen dans la vie quotidienne.
 

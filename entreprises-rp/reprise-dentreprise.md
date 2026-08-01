@@ -1,4 +1,4 @@
-# Reprise d’entreprise
+# 🔁 Reprise d’entreprise
 
 La reprise d’entreprise permet de transférer une activité à un nouveau responsable.
 

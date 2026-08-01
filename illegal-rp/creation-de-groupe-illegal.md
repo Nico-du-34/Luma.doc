@@ -1,9 +1,8 @@
 ---
 description: Bases attendues pour lancer un groupe illégal cohérent et jouable.
-icon: people-group
 ---
 
-# Création de groupe illégal
+# 👥 Création de groupe illégal
 
 Créer un groupe illégal demande un projet RP clair. Le groupe doit apporter du jeu, pas seulement de la pression.
 

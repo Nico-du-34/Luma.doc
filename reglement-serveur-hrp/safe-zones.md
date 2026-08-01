@@ -1,9 +1,8 @@
 ---
 description: Règles applicables dans les zones protégées du serveur.
-icon: shield
 ---
 
-# Safe zones
+# 🛡️ Safe zones
 
 Les safe zones protègent les interactions sensibles.
 

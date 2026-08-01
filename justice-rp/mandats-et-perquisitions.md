@@ -1,9 +1,8 @@
 ---
 description: Conditions et cadre d’usage des mandats, fouilles lourdes et perquisitions.
-icon: file-signature
 ---
 
-# Mandats et perquisitions
+# 📄 Mandats et perquisitions
 
 Un mandat autorise une mesure ciblée. Une perquisition permet une recherche plus intrusive.
 

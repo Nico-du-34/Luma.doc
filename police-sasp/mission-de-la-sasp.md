@@ -1,9 +1,8 @@
 ---
 description: Rôle de la SASP dans la sécurité, l’enquête et l’ordre public.
-icon: shield
 ---
 
-# Mission de la SASP
+# 🛡️ Mission de la SASP
 
 La SASP protège la population et fait appliquer la loi. Elle agit dans le cadre du RP et de la procédure.
 

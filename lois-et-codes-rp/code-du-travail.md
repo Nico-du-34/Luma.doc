@@ -1,4 +1,4 @@
-# Code du travail
+# 👷 Code du travail
 
 Le code du travail encadre les relations entre employeurs et employés.
 

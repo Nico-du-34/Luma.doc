@@ -1,4 +1,4 @@
-# Code du commerce
+# 🏪 Code du commerce
 
 Le code du commerce encadre les ventes, entreprises et pratiques commerciales.
 

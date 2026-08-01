@@ -1,4 +1,4 @@
-# Dédommagements
+# 💶 Dédommagements
 
 Un dédommagement répare un préjudice subi en RP ou, exceptionnellement, un problème reconnu par le staff.
 

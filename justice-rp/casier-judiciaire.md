@@ -1,4 +1,4 @@
-# Casier judiciaire
+# 🗃️ Casier judiciaire
 
 Le casier judiciaire garde la trace des condamnations et sanctions importantes d’un citoyen.
 
@@ -28,4 +28,3 @@ Il ne doit pas être utilisé pour harceler un joueur ou bloquer définitivement
 ### Effacement ou réhabilitation
 
 Selon les règles du serveur, une personne peut demander une révision, un effacement partiel ou une réhabilitation après une période sans nouvelle infraction.
-

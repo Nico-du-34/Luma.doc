@@ -1,9 +1,8 @@
 ---
 description: Cadre de rétention temporaire d’un suspect dans une procédure pénale.
-icon: building-shield
 ---
 
-# Garde à vue
+# 🚔 Garde à vue
 
 La garde à vue est une mesure de rétention temporaire. Elle sert à sécuriser une procédure.
 

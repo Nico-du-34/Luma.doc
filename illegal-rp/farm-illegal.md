@@ -1,4 +1,4 @@
-# Farm illégal
+# 🌾 Farm illégal
 
 Le farm illégal est toléré seulement s’il soutient des scènes RP. Il ne doit pas devenir une boucle purement mécanique.
 
@@ -22,4 +22,3 @@ Le farm illégal est toléré seulement s’il soutient des scènes RP. Il ne do
 Si une activité produit trop d’argent ou bloque les autres joueurs, le staff peut réduire, suspendre ou encadrer la zone concernée.
 
 L’illégal doit rester risqué. Un gain sans risque finit toujours par déséquilibrer le serveur.
-

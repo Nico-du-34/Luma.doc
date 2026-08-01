@@ -1,4 +1,4 @@
-# Coma et mort RP médicale
+# 🛏️ Coma et mort RP médicale
 
 Le coma et la mort RP médicale doivent être joués avec sérieux. Ils touchent directement la continuité du personnage.
 
@@ -29,4 +29,3 @@ Le réveil ne doit pas servir à ignorer immédiatement une blessure grave.
 Une mort RP ne doit pas être décidée à la légère. Elle dépend du cadre serveur, de la scène et parfois d’une validation staff.
 
 Le SAMS peut constater un décès en RP, mais une mort définitive de personnage doit suivre les règles de mort RP et wipe.
-

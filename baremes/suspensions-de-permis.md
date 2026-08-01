@@ -1,4 +1,4 @@
-# Suspensions de permis
+# 🚫 Suspensions de permis
 
 La suspension de permis sanctionne une conduite dangereuse ou répétée.
 
@@ -8,13 +8,13 @@ Cette page précise le cadre d’application du barème. Les montants, durées o
 
 ### Règles principales
 
-| Situation | Durée indicative |
-| --- | ---: |
-| Grand excès de vitesse | 24 h à 3 jours |
-| Conduite dangereuse en ville | 1 à 7 jours |
-| Accident grave responsable | 3 à 14 jours |
-| Fuite motorisée | 7 à 30 jours |
-| Récidive routière lourde | décision judiciaire |
+| Situation                    |    Durée indicative |
+| ---------------------------- | ------------------: |
+| Grand excès de vitesse       |      24 h à 3 jours |
+| Conduite dangereuse en ville |         1 à 7 jours |
+| Accident grave responsable   |        3 à 14 jours |
+| Fuite motorisée              |        7 à 30 jours |
+| Récidive routière lourde     | décision judiciaire |
 
 ### Bonnes pratiques
 

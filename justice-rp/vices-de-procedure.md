@@ -1,4 +1,4 @@
-# Vices de procédure
+# ⚠️ Vices de procédure
 
 Un vice de procédure est une erreur pouvant fragiliser une mesure ou une sanction.
 

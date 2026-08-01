@@ -1,4 +1,4 @@
-# Coffres et argent société
+# 💰 Coffres et argent société
 
 Le coffre d’entreprise représente l’argent professionnel et ne doit pas être confondu avec l’argent personnel.
 

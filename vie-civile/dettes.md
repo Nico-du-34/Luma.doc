@@ -1,4 +1,4 @@
-# Dettes
+# 💳 Dettes
 
 Une dette engage un citoyen à rembourser une somme ou un bien.
 

@@ -1,4 +1,4 @@
-# Barème fourrière
+# 🚙 Barème fourrière
 
 Le barème fourrière s’applique lorsqu’un véhicule gêne, met en danger ou doit être retiré d’une scène.
 
@@ -8,13 +8,13 @@ Cette page précise le cadre d’application du barème. Les montants, durées o
 
 ### Règles principales
 
-| Situation | Mesure conseillée |
-| --- | --- |
-| Stationnement gênant simple | avertissement ou petite amende |
-| Stationnement dangereux | fourrière et amende |
-| Véhicule abandonné sur voie publique | fourrière |
+| Situation                             | Mesure conseillée              |
+| ------------------------------------- | ------------------------------ |
+| Stationnement gênant simple           | avertissement ou petite amende |
+| Stationnement dangereux               | fourrière et amende            |
+| Véhicule abandonné sur voie publique  | fourrière                      |
 | Véhicule impliqué dans une infraction | saisie temporaire ou fourrière |
-| Refus de déplacer après consigne | amende aggravée et fourrière |
+| Refus de déplacer après consigne      | amende aggravée et fourrière   |
 
 ### Bonnes pratiques
 

@@ -1,4 +1,4 @@
-# Économie serveur
+# 💰 Économie serveur
 
 L’économie serveur doit rester équilibrée et générer du jeu.
 

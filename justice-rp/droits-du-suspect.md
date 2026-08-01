@@ -1,9 +1,8 @@
 ---
 description: Garanties minimales d’une personne contrôlée, retenue ou poursuivie.
-icon: user-shield
 ---
 
-# Droits du suspect
+# 🧑‍⚖️ Droits du suspect
 
 Un suspect garde des droits. Ces droits s’appliquent pendant toute la procédure.
 

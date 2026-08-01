@@ -1,4 +1,4 @@
-# Blanchiment
+# 💵 Blanchiment
 
 Le blanchiment transforme des gains illégaux en argent utilisable par des moyens RP.
 

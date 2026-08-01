@@ -1,4 +1,4 @@
-# Triage
+# 🏷️ Triage
 
 Le triage classe les victimes selon l’urgence médicale.
 

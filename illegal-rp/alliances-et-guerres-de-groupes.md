@@ -1,4 +1,4 @@
-# Alliances et guerres de groupes
+# ⚔️ Alliances et guerres de groupes
 
 Les alliances et guerres de groupes doivent créer du RP durable, pas une domination permanente.
 
@@ -34,4 +34,3 @@ Une guerre doit monter progressivement.
 ### Fin de conflit
 
 Une guerre doit pouvoir se terminer : accord, perte de territoire, arrestations, médiation ou décision staff.
-

@@ -1,4 +1,4 @@
-# Licences commerciales
+# 📜 Licences commerciales
 
 Certaines activités nécessitent une licence ou une autorisation RP.
 

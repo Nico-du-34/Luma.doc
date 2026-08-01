@@ -1,4 +1,4 @@
-# Patrouilles
+# 🚓 Patrouilles
 
 La patrouille assure une présence visible et réactive sur le territoire.
 

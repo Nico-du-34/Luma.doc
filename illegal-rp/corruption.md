@@ -1,4 +1,4 @@
-# Corruption
+# 🤝 Corruption
 
 La corruption consiste à détourner une fonction, un accès ou une information contre avantage.
 

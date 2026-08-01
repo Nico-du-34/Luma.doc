@@ -1,9 +1,8 @@
 ---
 description: Point de départ pour comprendre le serveur et savoir quoi lire.
-icon: person-waving
 ---
 
-# Bienvenue sur LUMA Roleplay
+# 👋 Bienvenue sur LUMA Roleplay
 
 Bienvenue sur LUMA Roleplay.
 

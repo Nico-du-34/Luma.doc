@@ -1,4 +1,4 @@
-# Formation
+# 🎓 Formation
 
 La formation prépare les membres du service à intervenir correctement.
 

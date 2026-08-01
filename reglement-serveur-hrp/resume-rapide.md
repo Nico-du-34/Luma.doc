@@ -1,9 +1,8 @@
 ---
 description: Version courte des réflexes à garder en tête avant de jouer.
-icon: bolt
 ---
 
-# Résumé rapide
+# ⚡ Résumé rapide
 
 À retenir avant de jouer :
 

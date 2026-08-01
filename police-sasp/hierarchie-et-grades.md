@@ -1,4 +1,4 @@
-# Hiérarchie et grades
+# 🎖️ Hiérarchie et grades
 
 La hiérarchie SASP organise le commandement et la responsabilité des interventions.
 

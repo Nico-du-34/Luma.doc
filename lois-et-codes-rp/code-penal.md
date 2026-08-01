@@ -1,9 +1,8 @@
 ---
 description: Base des infractions RP et de leur qualification.
-icon: scale-balanced
 ---
 
-# Code pénal
+# ⚖️ Code pénal
 
 Le code pénal qualifie les infractions commises en RP. Il sert à nommer les faits et à guider la sanction.
 

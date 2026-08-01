@@ -1,4 +1,4 @@
-# Fermeture temporaire ou définitive
+# 🔒 Fermeture temporaire ou définitive
 
 Une entreprise peut être fermée si son activité devient abusive, incohérente ou dangereuse pour l’économie.
 

@@ -1,9 +1,8 @@
 ---
 description: Parcours simple pour lire les bonnes pages avant ta première session.
-icon: route
 ---
 
-# Ordre conseillé de lecture
+# 🗺️ Ordre conseillé de lecture
 
 Lis ces pages dans cet ordre.
 

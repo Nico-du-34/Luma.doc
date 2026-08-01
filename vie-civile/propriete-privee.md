@@ -1,4 +1,4 @@
-# Propriété privée
+# 🏠 Propriété privée
 
 La propriété privée protège les lieux, biens et accès appartenant à un citoyen ou une organisation.
 

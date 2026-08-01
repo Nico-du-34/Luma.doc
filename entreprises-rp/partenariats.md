@@ -1,4 +1,4 @@
-# Partenariats
+# 🤝 Partenariats
 
 Un partenariat lie deux entreprises ou institutions autour d’un service ou d’un avantage.
 

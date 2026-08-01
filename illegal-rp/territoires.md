@@ -1,4 +1,4 @@
-# Territoires
+# 🗺️ Territoires
 
 Un territoire représente une zone d’influence, pas une propriété absolue.
 

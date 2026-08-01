@@ -1,9 +1,8 @@
 ---
 description: Règles de base pour jouer l’illégal sans casser le RP des autres.
-icon: user-secret
 ---
 
-# Règlement illégal RP
+# 🕵️ Règlement illégal RP
 
 L’illégal crée du conflit RP. Il doit rester cadré, lisible et jouable pour tous.
 

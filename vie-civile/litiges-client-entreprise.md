@@ -1,4 +1,4 @@
-# Litiges client / entreprise
+# 🤝 Litiges client / entreprise
 
 Un litige client entreprise concerne une prestation, une facture ou un service contesté.
 

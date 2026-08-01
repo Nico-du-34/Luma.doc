@@ -1,4 +1,4 @@
-# Sanctions internes
+# ⚠️ Sanctions internes
 
 Les sanctions internes corrigent les fautes commises par un agent.
 

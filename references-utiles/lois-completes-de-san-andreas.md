@@ -1,4 +1,4 @@
-# Lois complètes de San Andreas
+# 📚 Lois complètes de San Andreas
 
 Cette page sert d’index vers les textes légaux RP de San Andreas.
 

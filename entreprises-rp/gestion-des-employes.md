@@ -1,4 +1,4 @@
-# Gestion des employés
+# 👥 Gestion des employés
 
 La gestion des employés doit rester RP, claire et respectueuse.
 

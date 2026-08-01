@@ -1,4 +1,4 @@
-# Hiérarchie et grades
+# 🎖️ Hiérarchie et grades
 
 La hiérarchie organise les responsabilités internes du service.
 

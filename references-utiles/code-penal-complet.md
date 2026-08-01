@@ -1,4 +1,4 @@
-# Code pénal complet
+# ⚖️ Code pénal complet
 
 Cette référence regroupe les infractions pénales utiles aux scènes judiciaires.
 

@@ -1,9 +1,8 @@
 ---
 description: Méthode simple pour lire les bonnes pages dans le bon ordre.
-icon: question
 ---
 
-# Comment lire la documentation
+# ❓ Comment lire la documentation
 
 Lis toujours du général vers le spécifique.
 

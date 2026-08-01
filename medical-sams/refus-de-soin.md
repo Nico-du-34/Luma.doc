@@ -1,4 +1,4 @@
-# Refus de soin
+# 🙅 Refus de soin
 
 Un patient peut refuser certains soins, mais ce refus doit rester cohérent avec son état et la scène.
 
@@ -25,4 +25,3 @@ Le refus peut être ignoré ou encadré si :
 ### Bonnes pratiques
 
 Le refus de soin ne doit pas être utilisé pour fuir une scène. Le SAMS ne doit pas forcer une scène médicale plus longtemps que nécessaire.
-

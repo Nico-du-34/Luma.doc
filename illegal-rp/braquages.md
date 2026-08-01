@@ -1,4 +1,4 @@
-# Braquages
+# 💥 Braquages
 
 Un braquage est une scène lourde qui doit être préparée et jouée avec fair-play.
 

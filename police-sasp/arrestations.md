@@ -1,4 +1,4 @@
-# Arrestations
+# 🚨 Arrestations
 
 L’arrestation prive temporairement une personne de liberté pour les besoins d’une procédure.
 

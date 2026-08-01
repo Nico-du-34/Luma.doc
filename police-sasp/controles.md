@@ -1,4 +1,4 @@
-# Contrôles
+# 🔍 Contrôles
 
 Le contrôle permet de vérifier une identité, une situation ou une infraction possible.
 

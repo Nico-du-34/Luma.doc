@@ -1,9 +1,8 @@
 ---
 description: Référence de lecture pour ajuster les sanctions de manière cohérente.
-icon: receipt
 ---
 
-# Barème des amendes et peines
+# 🧾 Barème des amendes et peines
 
 Ce barème sert de repère pour garder des sanctions cohérentes. Les montants peuvent être ajustés par la justice selon le contexte.
 
@@ -17,13 +16,13 @@ Ce barème sert de repère pour garder des sanctions cohérentes. Les montants p
 
 ### Fourchettes indicatives
 
-| Niveau | Exemples | Amende indicative | Prison indicative |
-| --- | --- | ---: | ---: |
-| Mineur | trouble léger, petite infraction routière, irrespect isolé | 500 à 2 500 $ | 0 à 5 mois |
-| Standard | refus d’obtempérer simple, vol léger, outrage répété | 2 500 à 10 000 $ | 5 à 20 mois |
-| Grave | violence, fuite dangereuse, port illégal d’arme | 10 000 à 35 000 $ | 20 à 60 mois |
-| Très grave | braquage, enlèvement, trafic organisé | 35 000 à 100 000 $ | 60 à 150 mois |
-| Exceptionnel | terrorisme RP, massacre, récidive lourde organisée | décision judiciaire | décision judiciaire |
+| Niveau       | Exemples                                                   |   Amende indicative |   Prison indicative |
+| ------------ | ---------------------------------------------------------- | ------------------: | ------------------: |
+| Mineur       | trouble léger, petite infraction routière, irrespect isolé |       500 à 2 500 $ |          0 à 5 mois |
+| Standard     | refus d’obtempérer simple, vol léger, outrage répété       |    2 500 à 10 000 $ |         5 à 20 mois |
+| Grave        | violence, fuite dangereuse, port illégal d’arme            |   10 000 à 35 000 $ |        20 à 60 mois |
+| Très grave   | braquage, enlèvement, trafic organisé                      |  35 000 à 100 000 $ |       60 à 150 mois |
+| Exceptionnel | terrorisme RP, massacre, récidive lourde organisée         | décision judiciaire | décision judiciaire |
 
 ### Facteurs aggravants
 

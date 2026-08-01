@@ -1,4 +1,4 @@
-# Dossier de création
+# 📁 Dossier de création
 
 Le dossier de création présente le projet d’entreprise avant validation.
 

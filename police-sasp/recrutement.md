@@ -1,4 +1,4 @@
-# Recrutement
+# 🧑‍✈️ Recrutement
 
 Le recrutement SASP vérifie la maturité, le fair-play et la capacité à respecter les procédures.
 

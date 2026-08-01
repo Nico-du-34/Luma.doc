@@ -1,4 +1,4 @@
-# Laboratoires et production
+# 🧪 Laboratoires et production
 
 Les laboratoires et productions illégales doivent générer du risque, de l’organisation et des scènes.
 
@@ -33,4 +33,3 @@ Un laboratoire découvert peut entraîner :
 * perte temporaire d’accès
 * conflit entre groupes
 * sanctions RP ou administratives en cas d’abus
-

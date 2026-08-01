@@ -1,4 +1,4 @@
-# Combat log et retour sur zone
+# 🔄 Combat log et retour sur zone
 
 Quitter ou revenir sur une scène au mauvais moment peut ruiner le RP des autres joueurs.
 
@@ -29,4 +29,3 @@ Règle pratique :
 ### Sanctions possibles
 
 Un combat log ou un retour abusif peut entraîner une annulation d’avantage, une sanction staff ou une reprise de scène sous supervision.
-

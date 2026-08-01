@@ -1,4 +1,4 @@
-# Litiges entre citoyens
+# ⚖️ Litiges entre citoyens
 
 Un litige entre citoyens concerne une dette, un accord, une propriété ou un dommage privé.
 

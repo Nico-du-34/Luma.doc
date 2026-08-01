@@ -1,9 +1,8 @@
 ---
 description: Rôle du SAMS dans le secours, la stabilisation et le suivi médical RP.
-icon: truck-medical
 ---
 
-# Mission du SAMS
+# 🚑 Mission du SAMS
 
 Le SAMS assure la réponse médicale du serveur. Sa mission reste centrée sur le soin et la stabilisation.
 

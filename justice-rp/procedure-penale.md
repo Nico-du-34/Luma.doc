@@ -1,4 +1,4 @@
-# Procédure pénale
+# 📝 Procédure pénale
 
 La procédure pénale décrit les étapes entre l’infraction constatée et la décision finale.
 

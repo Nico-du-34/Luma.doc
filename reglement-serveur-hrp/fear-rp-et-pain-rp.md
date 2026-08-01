@@ -1,4 +1,4 @@
-# Fear RP et pain RP
+# 😨 Fear RP et pain RP
 
 Le fear RP et le pain RP rendent les scènes crédibles. Ton personnage doit réagir au danger et à la douleur.
 
@@ -31,4 +31,3 @@ Exemples attendus :
 Le fear RP ne signifie pas obéir à tout sans jouer. Le pain RP ne signifie pas bloquer une scène pendant une heure.
 
 L’objectif est de rendre la situation crédible, pas de punir le joueur.
-

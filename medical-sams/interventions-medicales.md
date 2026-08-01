@@ -1,9 +1,8 @@
 ---
 description: Cadre pratique des prises en charge médicales sur scène RP.
-icon: stethoscope
 ---
 
-# Interventions médicales
+# 🩺 Interventions médicales
 
 Une intervention médicale doit rester claire, rapide et crédible. Le soin passe avant la mise en scène excessive.
 

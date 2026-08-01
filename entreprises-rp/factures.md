@@ -1,4 +1,4 @@
-# Factures
+# 🧾 Factures
 
 Les factures servent à tracer les prestations et les ventes entre joueurs.
 

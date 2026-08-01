@@ -1,4 +1,4 @@
-# Secret médical
+# 🤫 Secret médical
 
 Le secret médical protège les informations de santé des patients.
 

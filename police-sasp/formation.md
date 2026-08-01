@@ -1,4 +1,4 @@
-# Formation
+# 🎓 Formation
 
 La formation prépare les agents à agir correctement sur le terrain.
 

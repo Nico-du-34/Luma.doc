@@ -1,4 +1,4 @@
-# Certificats médicaux
+# 📄 Certificats médicaux
 
 Un certificat médical constate un état, une blessure ou une incapacité en RP.
 

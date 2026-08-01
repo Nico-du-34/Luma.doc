@@ -1,4 +1,4 @@
-# Confiscations
+# 🔒 Confiscations
 
 La confiscation retire temporairement ou définitivement un objet lié à une infraction ou à un danger.
 
@@ -8,12 +8,12 @@ Cette page précise le cadre d’application du barème. Les montants, durées o
 
 ### Règles principales
 
-| Objet | Décision possible |
-| --- | --- |
-| Arme sans licence | confiscation |
-| Arme utilisée dans un crime | confiscation et preuve |
-| Drogue | confiscation et destruction RP |
-| Faux papiers ou matériel illégal | confiscation |
+| Objet                                       | Décision possible                |
+| ------------------------------------------- | -------------------------------- |
+| Arme sans licence                           | confiscation                     |
+| Arme utilisée dans un crime                 | confiscation et preuve           |
+| Drogue                                      | confiscation et destruction RP   |
+| Faux papiers ou matériel illégal            | confiscation                     |
 | Véhicule récidiviste ou lourdement impliqué | confiscation judiciaire possible |
 
 ### Bonnes pratiques

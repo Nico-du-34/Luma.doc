@@ -1,4 +1,4 @@
-# Gang / organisation / cartel
+# 🕶️ Gang / organisation / cartel
 
 Les groupes illégaux se distinguent par leur taille, leur structure et leur niveau d’influence.
 

@@ -1,4 +1,4 @@
-# Prises d’otage
+# 🚨 Prises d’otage
 
 Une prise d’otage sert à obtenir une négociation dans une scène à fort enjeu.
 

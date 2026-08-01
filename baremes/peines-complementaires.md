@@ -1,4 +1,4 @@
-# Peines complémentaires
+# ➕ Peines complémentaires
 
 Les peines complémentaires s’ajoutent à une amende, une peine de prison ou une décision judiciaire lorsque la situation le justifie.
 
@@ -8,14 +8,14 @@ Une peine complémentaire doit réparer, limiter un risque ou créer une suite R
 
 ### Mesures possibles
 
-| Mesure | Usage conseillé | Durée indicative |
-| --- | --- | ---: |
-| Travaux d’intérêt général | petite récidive, réparation symbolique | 10 à 30 minutes RP |
-| Obligation de réparation | dégradation, vol, préjudice civil | selon le dommage |
-| Interdiction de contact | menaces, harcèlement RP, conflit privé | 24 h à 7 jours |
-| Interdiction de zone | trouble répété dans un lieu précis | 24 h à 7 jours |
-| Interdiction d’activité | abus d’un métier ou d’une licence | 1 à 14 jours |
-| Suivi judiciaire | récidive ou affaire sensible | durée fixée par juge |
+| Mesure                    | Usage conseillé                        |     Durée indicative |
+| ------------------------- | -------------------------------------- | -------------------: |
+| Travaux d’intérêt général | petite récidive, réparation symbolique |   10 à 30 minutes RP |
+| Obligation de réparation  | dégradation, vol, préjudice civil      |     selon le dommage |
+| Interdiction de contact   | menaces, harcèlement RP, conflit privé |       24 h à 7 jours |
+| Interdiction de zone      | trouble répété dans un lieu précis     |       24 h à 7 jours |
+| Interdiction d’activité   | abus d’un métier ou d’une licence      |         1 à 14 jours |
+| Suivi judiciaire          | récidive ou affaire sensible           | durée fixée par juge |
 
 ### Exemples
 

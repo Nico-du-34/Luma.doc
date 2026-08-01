@@ -1,9 +1,8 @@
 ---
 description: Cadre de forme pour les enquêtes, contrôles et poursuites.
-icon: book-open
 ---
 
-# Code de procédure pénale
+# 📘 Code de procédure pénale
 
 Le code de procédure pénale encadre la manière d’agir. Il protège la validité des actes.
 

@@ -1,4 +1,4 @@
-# Code de la route
+# 🚦 Code de la route
 
 Le code de la route encadre la conduite et la sécurité sur les voies publiques.
 

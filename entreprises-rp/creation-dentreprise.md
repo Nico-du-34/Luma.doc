@@ -1,9 +1,8 @@
 ---
 description: Conditions et attentes pour lancer une entreprise RP viable.
-icon: store
 ---
 
-# Création d’entreprise
+# 🏪 Création d’entreprise
 
 Créer une entreprise RP demande un projet utile au serveur. L’activité doit générer du jeu régulier.
 

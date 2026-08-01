@@ -1,9 +1,8 @@
 ---
 description: Principes de nécessité, proportion et désescalade pour la force policière.
-icon: hand
 ---
 
-# Usage de la force
+# ✋ Usage de la force
 
 La force est un outil de dernier recours. Elle doit rester nécessaire et proportionnée.
 

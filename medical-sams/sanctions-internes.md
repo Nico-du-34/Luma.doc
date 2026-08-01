@@ -1,4 +1,4 @@
-# Sanctions internes
+# ⚠️ Sanctions internes
 
 Les sanctions internes corrigent un comportement inadapté dans un service.
 

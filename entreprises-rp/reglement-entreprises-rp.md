@@ -1,9 +1,8 @@
 ---
 description: Cadre de base pour gérer une entreprise RP de manière propre et durable.
-icon: briefcase
 ---
 
-# Règlement entreprises RP
+# 💼 Règlement entreprises RP
 
 Une entreprise RP sert à créer du jeu civil, économique et social. Elle ne sert pas à monopoliser des avantages.
 

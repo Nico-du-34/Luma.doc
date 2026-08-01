@@ -1,4 +1,4 @@
-# Réanimation
+# ❤️‍🩹 Réanimation
 
 La réanimation est une action médicale sensible qui doit rester cohérente avec l’état du patient.
 

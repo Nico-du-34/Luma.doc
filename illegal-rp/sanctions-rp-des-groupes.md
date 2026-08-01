@@ -1,4 +1,4 @@
-# Sanctions RP des groupes
+# ⚠️ Sanctions RP des groupes
 
 Un groupe illégal peut subir des conséquences RP lorsque ses actes dépassent le cadre accepté.
 

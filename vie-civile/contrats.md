@@ -1,4 +1,4 @@
-# Contrats
+# 📝 Contrats
 
 Un contrat formalise un accord entre personnes ou entreprises.
 

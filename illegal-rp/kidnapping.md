@@ -1,4 +1,4 @@
-# Kidnapping
+# 🪢 Kidnapping
 
 Le kidnapping prive temporairement un personnage de liberté et doit rester strictement encadré.
 

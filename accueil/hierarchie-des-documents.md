@@ -1,9 +1,8 @@
 ---
 description: Ordre de priorité à appliquer en cas de doute ou de conflit.
-icon: tent-double-peak
 ---
 
-# Hiérarchie des documents
+# 🏔️ Hiérarchie des documents
 
 Quand deux textes semblent se contredire, applique cet ordre.
 

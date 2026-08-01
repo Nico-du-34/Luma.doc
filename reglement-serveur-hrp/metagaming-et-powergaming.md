@@ -1,4 +1,4 @@
-# Metagaming et powergaming
+# 🧠 Metagaming et powergaming
 
 Le metagaming et le powergaming cassent la séparation entre joueur et personnage. Ils sont interdits.
 
@@ -34,4 +34,3 @@ Exemples interdits :
 ### Sanctions possibles
 
 Selon la gravité : rappel, avertissement, annulation de scène, sanction administrative ou wipe d’avantage obtenu.
-

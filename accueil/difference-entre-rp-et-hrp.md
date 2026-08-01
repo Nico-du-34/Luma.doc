@@ -1,9 +1,8 @@
 ---
 description: Comprendre ce qui relève du personnage et ce qui relève du joueur.
-icon: sunglasses
 ---
 
-# Différence entre RP et HRP
+# 😎 Différence entre RP et HRP
 
 Le **RP** concerne ton personnage. Le **HRP** concerne le joueur et le serveur.
 

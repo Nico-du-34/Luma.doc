@@ -1,4 +1,4 @@
-# Rapports
+# 📋 Rapports
 
 Les rapports gardent une trace des interventions importantes.
 

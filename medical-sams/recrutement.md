@@ -1,4 +1,4 @@
-# Recrutement
+# 🩺 Recrutement
 
 Le recrutement vérifie qu’un candidat comprend le rôle et l’attitude attendue.
 

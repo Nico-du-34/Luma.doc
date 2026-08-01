@@ -1,4 +1,4 @@
-# Fouilles
+# 🔎 Fouilles
 
 La fouille permet de rechercher des objets dangereux, interdits ou liés à une infraction.
 

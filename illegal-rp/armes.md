@@ -1,4 +1,4 @@
-# Armes
+# 🔫 Armes
 
 Les armes donnent un avantage important et doivent être utilisées avec retenue.
 

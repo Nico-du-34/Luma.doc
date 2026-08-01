@@ -1,4 +1,4 @@
-# Procès
+# 🏛️ Procès
 
 Le procès permet d’examiner publiquement une affaire lorsque les faits ou la peine le justifient.
 
