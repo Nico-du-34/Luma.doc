@@ -57,7 +57,7 @@
 * [🧾 Barème des amendes et peines](baremes/bareme-des-amendes-et-peines.md)
 * [🚙 Barème fourrière](baremes/bareme-fourriere.md)
 * [➕ Peines complémentaires](baremes/peines-complementaires.md)
-* [📦 Saisies](baremes/saisies.md)
+* [📦 Saisies: Cadre, Biens Concernés et Traçabilité](baremes/saisies.md)
 * [🚫 Suspensions de permis](baremes/suspensions-de-permis.md)
 * [🔒 Confiscations](baremes/confiscations.md)
 
