@@ -59,7 +59,7 @@
 * [➕ Peines complémentaires](baremes/peines-complementaires.md)
 * [📦 Saisies: Cadre, Biens Concernés et Traçabilité](baremes/saisies.md)
 * [🚫 Suspensions de permis](baremes/suspensions-de-permis.md)
-* [🔒 Confiscations](baremes/confiscations.md)
+* [🔒 Confiscations: Retrait, Saisie Définitive et Cadre d'Application](baremes/confiscations.md)
 
 ## 👮 Police - SASP
 
