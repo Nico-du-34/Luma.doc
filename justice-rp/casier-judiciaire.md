@@ -1,30 +1,35 @@
 # 🗃️ Casier judiciaire
 
-Le casier judiciaire garde la trace des condamnations et sanctions importantes d’un citoyen.
+Le casier judiciaire centralise et conserve la trace des condamnations et des sanctions importantes prononcées à l'encontre d'un citoyen. Il constitue un outil de référence essentiel pour les autorités judiciaires et les forces de l'ordre afin d'assurer la cohérence des réponses pénales.
 
-### Utilité
+### L'Utilité du Casier Judiciaire
 
 Le casier peut servir à :
 
-* vérifier une récidive
-* adapter une peine
-* justifier une surveillance ou une vigilance accrue
-* informer une décision judiciaire
+* Vérifier la récidive : Identifier rapidement si le mis en cause présente des antécédents similaires récents.
+* Adapter la peine : Permettre au juge d'ajuster la sévérité de la sanction en fonction du profil et du passif judiciaire.
+* Justifier une surveillance : Appuyer une vigilance accrue ou des mesures de contrôle spécifiques.
+* Éclairer la décision : Fournir aux magistrats un historique clair pour guider leurs décisions lors des jugements.
 
 ### Ce qui peut y figurer
 
-* condamnations prononcées
-* peines de prison importantes
-* amendes lourdes
-* suspensions ou interdictions
-* mesures liées à une affaire grave
+Sont consignés dans le casier judiciaire :
 
-### Limites
+* Les condamnations pénales prononcées par la justice.
+* Les peines de prison importantes.
+* Les amendes lourdes.
+* Les suspensions, interdictions ou retraits de permis/licences.
+* Les mesures restrictives liées à des affaires graves.
 
-Un casier ne remplace pas une preuve. Il ne suffit pas à condamner quelqu’un pour une nouvelle affaire.
+### Limites d'Utilisation
 
-Il ne doit pas être utilisé pour harceler un joueur ou bloquer définitivement son RP.
+* Absence de valeur de preuve : Un casier judiciaire ne remplace en aucun cas une preuve matérielle ou testimoniale. Il ne peut pas suffire à lui seul pour condamner un individu pour une nouvelle affaire.
+* Interdiction des abus : Le casier ne doit jamais être instrumentalisé pour harceler un joueur, nuire à son expérience de jeu ou bloquer définitivement l'évolution de son RolePlay.
 
 ### Effacement ou réhabilitation
 
-Selon les règles du serveur, une personne peut demander une révision, un effacement partiel ou une réhabilitation après une période sans nouvelle infraction.
+Conformément aux règles en vigueur sur le serveur, une personne condamnée peut, après une période probatoire prolongée sans commettre de nouvelle infraction, introduire une demande de révision, d'effacement partiel ou de réhabilitation auprès des instances compétentes.
+
+💡 À retenir :
+
+> Le casier judiciaire est un outil d'aide à la décision pour la justice et le suivi des récidives, qui doit être manié avec équité pour préserver la dynamique et la progression des joueurs.
