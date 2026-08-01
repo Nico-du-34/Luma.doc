@@ -1,6 +1,6 @@
 # 🚫 Suspensions de permis
 
-La suspension de permis sanctionne une conduite dangereuse ou répétée.
+La suspension de permis sanctionne une conduite dangereuse, irresponsable ou répétée sur les routes de San Andreas. Elle garantit la sécurité publique tout en offrant un cadre proportionné et cohérent pour la gestion des infractions routières graves.
 
 ### Cadre
 
@@ -16,13 +16,13 @@ Cette page précise le cadre d’application du barème. Les montants, durées o
 | Fuite motorisée              |        7 à 30 jours |
 | Récidive routière lourde     | décision judiciaire |
 
-### Bonnes pratiques
+### Bonnes pratiques pour les Forces de l'Ordre
 
-* rester cohérent avec la scène en cours
-* expliquer les décisions importantes aux personnes concernées
-* garder une trace lorsqu’un litige est possible
-* faire appel au staff seulement si le cadre RP ne suffit plus
+* Cohérence narrative : Veillez à ce que la mesure appliquée soit en adéquation totale avec la gravité de la scène jouée et le comportement du conducteur.
+* Pédagogie et Transparence : Expliquez clairement les motifs de la suspension à l'intéressé afin d'éviter toute incompréhension.
+* Traçabilité rigoureuse : Conservez une trace officielle de la sanction (notamment pour les récidives et le suivi des antécédents routiers).
+* Le Recours Exclusif aux Instances RP : Les contestations relatives à une suspension se règlent par la voie légale (tribunaux). N'invoquez le staff qu'en cas de manquement HRP avéré.
 
-### À retenir
+💡 À retenir :
 
-La durée doit suivre la gravité et l’historique du conducteur.
+> La durée de la suspension doit toujours suivre fidèlement la gravité des faits constatés et l'historique du conducteur pour préserver l'immersion et l'équité sur le serveur.
