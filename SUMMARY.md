@@ -118,7 +118,6 @@
 * [💊 Drogues](illegal-rp/drogues.md)
 * [🔫 Armes](illegal-rp/armes.md)
 * [💵 Blanchiment](illegal-rp/blanchiment.md)
-* [🌾 Farm illégal](illegal-rp/farm-illegal.md)
 * [🤝 Corruption](illegal-rp/corruption.md)
 * [⚠️ Sanctions RP des groupes](illegal-rp/sanctions-rp-des-groupes.md)
 
