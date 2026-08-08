@@ -1,29 +1,5 @@
 # 🗺️ Territoires
 
-Un territoire représente une zone d’influence, pas une propriété absolue.
-
-### Cadre
-
-Cette page encadre les scènes illégales. L’objectif est de permettre du conflit RP intéressant sans transformer les scènes en abus ou en recherche de victoire à tout prix.
-
-### Règles principales
-
-* marquer une présence par des scènes
-* éviter de bloquer totalement l’accès public
-* assumer les conflits avec d’autres groupes
-* respecter les décisions staff sur les zones
-
-### Contrôle d’un territoire
-
-Un groupe peut revendiquer une zone s’il y joue réellement :
-
-* présence régulière
-* interactions avec civils, entreprises ou autres groupes
-* conséquences en cas d’attaque
-* limites claires et compréhensibles
-
-Un territoire ne donne pas le droit de tuer, racketter ou fouiller toute personne qui passe. La réaction doit dépendre du contexte.
-
 Un territoire représente une zone d’influence et d’ancrage pour un groupe criminel, mais il ne constitue en aucun cas une propriété absolue ou une zone de non-droit.
 
 **1. Le Cadre et l'Objectif**
