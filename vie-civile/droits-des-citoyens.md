@@ -1,25 +1,27 @@
 # 🧑‍⚖️ Droits des citoyens
 
-Cette page rappelle les droits pratiques d’un citoyen dans la vie quotidienne.
+La citoyenneté n'est pas seulement un statut ; c'est un ensemble de garanties qui permet à chaque personnage d'évoluer, de travailler et d'interagir en toute sérénité. Comprendre et exercer ses droits est un excellent moyen d'enrichir le RolePlay, de résoudre les conflits de manière constructive et de favoriser le réalisme au sein de la ville.
 
-### Cadre
+**1. Le Cadre et l'Objectif**
 
-Cette page encadre les situations courantes de la vie civile. Elle aide les citoyens à régler les conflits et à protéger leurs droits en RP.
+Cette page détaille les droits fondamentaux applicables aux situations courantes de la vie civile. Elle est conçue pour aider les joueurs à naviguer dans les interactions sociales, administratives et juridiques, transformant les potentiels différends en opportunités de jeu de rôle de qualité.
 
-### Règles principales
+> 💡 À retenir : Un droit n'est pas une arme pour écraser l'autre, mais un outil de protection et de régulation qui s'exerce avec calme, courtoisie et rigueur dans le cadre RP.
 
-* demander une explication lors d’un contrôle
-* protéger ses biens
-* faire valoir un contrat
-* porter plainte ou contester une sanction
+**2. Vos Droits Fondamentaux (Règles Principales)**
 
-### Bonnes pratiques
+Pour garantir une expérience de jeu équilibrée, chaque citoyen dispose de leviers d'action :
 
-* rester cohérent avec la scène en cours
-* expliquer les décisions importantes aux personnes concernées
-* garder une trace lorsqu’un litige est possible
-* faire appel au staff seulement si le cadre RP ne suffit plus
+* Droit à l'information (Contrôles) : Lors d'un contrôle de police ou d'une interaction administrative, vous êtes en droit de demander poliment la raison de l'intervention. Un agent est censé justifier son action pour qu'elle soit lisible RP.
+* Protection des biens : La propriété privée est protégée. Vous avez le droit de défendre vos actifs (véhicules, maisons, entreprises) contre les ingérences illégales, dans la limite de ce que permettent les lois de la ville.
+* Respect des contrats : Un accord oral ou écrit scellé par un contrat est une base légale. Vous avez le droit d'exiger son respect ou de saisir les instances compétentes en cas de rupture de contrat.
+* Droit de recours : Si vous estimez être victime d'une injustice, d'une sanction indue (amende, licenciement abusif) ou d'un acte malveillant, vous avez le droit de porter plainte officiellement ou de contester la décision auprès des autorités compétentes ou d'un juge.
 
-### À retenir
+**3. Bonnes Pratiques Citoyennes**
 
-Un droit s’exerce avec calme et dans le cadre RP.
+Pour que vos droits soient reconnus et respectés, la forme est aussi importante que le fond :
+
+* Cohérence narrative : Restez en adéquation avec la scène en cours. Une contestation doit être faite avec les mots et l'attitude de votre personnage, pas avec vos frustrations de joueur.
+* Documentation et Preuves : Gardez une trace (souvenirs, témoignages, écrits) lorsqu’un litige est possible. Un dossier bien construit est la meilleure arme en justice.
+* Transparence : Expliquez vos démarches et vos décisions aux personnes impliquées. La clarté évite bien des incompréhensions et des escalades inutiles.
+* Recours au Staff en dernier recours : Le staff est là pour régler les problèmes HRP (règles, bugs, comportements toxiques). Les litiges RP (un licenciement, une amende contestée) se règlent par les tribunaux, les avocats ou les discussions en jeu. Ne contactez l'administration que si le cadre RP ne suffit plus ou est bafoué.
