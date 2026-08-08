@@ -4,7 +4,7 @@ description: Cadre de base pour gérer une entreprise RP de manière propre et d
 
 # 💼 Règlement entreprises RP
 
-Une entreprise RP sert à créer du jeu civil, économique et social. Elle ne sert pas à monopoliser des avantages.
+Une entreprise RP est le moteur de l'économie locale et du tissu social du serveur. Elle a pour vocation première de créer du jeu civil, économique et social pour l'ensemble des joueurs. Elle ne doit en aucun cas être perçue comme un simple moyen d'amasser de la monnaie virtuelle (farm) ou de monopoliser des avantages mécaniques.
 
 ### Principes
 
