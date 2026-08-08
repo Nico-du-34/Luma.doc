@@ -1,6 +1,6 @@
 # 📋 Rapports
 
-Les rapports gardent une trace des interventions importantes.
+Les rapports d'intervention constituent la mémoire de la San Andreas State Police (SASP). Ils permettent de conserver une trace écrite, officielle et inaltérable des interventions importantes. La rédaction de ces documents encadre le travail policier et exige de la part des agents un professionnalisme absolu, de la rigueur et un respect total du cadre légal RP.
 
 ### Cadre
 
