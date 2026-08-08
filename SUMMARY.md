@@ -116,7 +116,6 @@
 * [🚨 Prises d’otage](illegal-rp/prises-dotage.md)
 * [💥 Braquages](illegal-rp/braquages.md)
 * [💊 Drogues](illegal-rp/drogues.md)
-* [🧪 Laboratoires et production](illegal-rp/laboratoires-et-production.md)
 * [🔫 Armes](illegal-rp/armes.md)
 * [💵 Blanchiment](illegal-rp/blanchiment.md)
 * [🌾 Farm illégal](illegal-rp/farm-illegal.md)
