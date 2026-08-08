@@ -1,26 +1,26 @@
 # 🕶️ Gang / organisation / cartel
 
-Les groupes illégaux se dist&#x69;_&#x6E;g&#x75;_&#x65;nt par leur taille, leur structure et leur niveau d’influence.
+Les groupes illégaux se distinguent par leur taille, leur structure et leur niveau d'influence au sein de l'écosystème du serveur.
 
-### Cadre
+**1. Le Cadre et l'Objectif**
 
-Cette page encadre les scènes illégales. L’objectif est de permettre du conflit RP intéressant sans transformer les scènes en abus ou en recherche de victoire à tout prix.
+Cette page encadre les scènes illégales et la typologie des structures criminelles. L'objectif fondamental est de permettre des conflits RP riches et intéressants, sans jamais transformer les scènes en abus de pouvoir ou en recherche obsessionnelle de la victoire à tout prix.
 
-### Règles principales
+> 💡 À retenir : Plus le groupe gagne en influence et en puissance, plus ses responsabilités RP augmentent vis-à-vis des autres joueurs et de l'équilibre du serveur.
 
-* gang local avec territoire limité
-* organisation structurée avec hiérarchie
-* cartel orienté trafic et réseau
-* tous doivent respecter les limites staff
+**2. Les Différents Niveaux de Structures (Règles Principales)**
 
-### Bonnes pratiques
+Le paysage criminel s'articule autour de trois grands types de groupes, chacun ayant ses propres spécificités et ambitions :
 
-* rester cohérent avec la scène en cours
-* expliquer les décisions importantes aux personnes concernées
-* garder une trace lorsqu’un litige est possible
-* faire appel au staff seulement si le cadre RP ne suffit plus
+* Le gang local : Ancré sur un territoire restreint (un quartier, une rue), il privilégie la proximité, les rivalités de rue et une gestion de terrain directe.
+* L'organisation structurée : Dotée d'une hiérarchie rigoureuse et formalisée, elle mène des activités plus planifiées, diversifiées et influentes à l'échelle de la ville.
+* Le cartel : Tourné vers les grands flux de trafic, l'import/export à grande échelle et les réseaux criminels étendus, il gère des enjeux financiers et logistiques majeurs.
+* Le respect des limites : Quelles que soient la taille et l'envergure du groupe, tous doivent impérativement respecter les règles et les limites fixées par le serveur.
 
-### À retenir
+**3. Bonnes Pratiques Opérationnelles**
 
-Plus le groupe est influent, plus ses responsabilités RP augmentent.
+* Cohérence narrative : Adaptez vos actions à la réalité de votre structure. Un petit gang de rue ne dispose ni des ressources ni des contacts d'un cartel international.
+* Transparence et Pédagogie : Expliquez les enjeux de vos actions aux personnes impliquées pour que le conflit reste constructif et divertissant pour tous les participants.
+* Traçabilité rigoureuse : Conservez des traces des gros coups, des alliances ou des litiges potentiels si une escalade RP est à prévoir.
+* Le Recours Exclusif aux Instances RP : Les conflits entre factions se règlent par le jeu (négociations, tensions, guerres de territoire). N'invoquez le staff qu'en dernier recours, si le cadre RP ne suffit plus ou face à un comportement HRP.
 
