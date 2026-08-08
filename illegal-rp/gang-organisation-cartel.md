@@ -1,6 +1,6 @@
 # 🕶️ Gang / organisation / cartel
 
-Les groupes illégaux se distinguent par leur taille, leur structure et leur niveau d’influence.
+Les groupes illégaux se dist&#x69;_&#x6E;g&#x75;_&#x65;nt par leur taille, leur structure et leur niveau d’influence.
 
 ### Cadre
 
@@ -23,3 +23,4 @@ Cette page encadre les scènes illégales. L’objectif est de permettre du conf
 ### À retenir
 
 Plus le groupe est influent, plus ses responsabilités RP augmentent.
+
