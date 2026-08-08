@@ -1,25 +1,25 @@
 # 💊 Drogues
 
-Les drogues sont un support de trafic, d’enquête et de conflit territorial.
+Les substances illicites constituent un support majeur pour alimenter l'économie souterraine, nourrir les enquêtes des forces de l'ordre et déclencher des conflits territoriaux entre factions.
 
-### Cadre
+**1. Le Cadre et l'Objectif**
 
-Cette page encadre les scènes illégales. L’objectif est de permettre du conflit RP intéressant sans transformer les scènes en abus ou en recherche de victoire à tout prix.
+Cette page encadre la gestion et le trafic de stupéfiants. L'objectif fondamental est de permettre des conflits RolePlay riches et stimulants sans jamais transformer ces scènes en abus ou en recherche obsessionnelle de la victoire à tout prix.
 
-### Règles principales
+> 💡 À retenir : Le trafic de drogue doit générer des scènes narratives, des tensions et des enquêtes passionnantes, pas seulement une routine de farm financier.
 
-* respecter les circuits définis par le serveur
-* éviter les ventes irréalistes ou répétitives
-* ne pas forcer la consommation d’un joueur
-* assumer le risque de contrôle
+**2. Règles Principales du Trafic**
 
-### Bonnes pratiques
+Pour que le commerce de la drogue reste équilibré et immersif pour l'ensemble du serveur, plusieurs règles d'or s'appliquent :
 
-* rester cohérent avec la scène en cours
-* expliquer les décisions importantes aux personnes concernées
-* garder une trace lorsqu’un litige est possible
-* faire appel au staff seulement si le cadre RP ne suffit plus
+* Respect des circuits définis : Utiliser exclusivement les emplacements, les processus de fabrication et les circuits de revente mis en place par le serveur.
+* Éviter le farm intensif : Proscrire les ventes robotiques, irréalistes ou répétitives en boucle au même endroit. Privilégier la discrétion, le RP de rue et la mise en scène.
+* Consentement à la consommation : Ne jamais forcer un autre joueur à consommer une substance contre son gré (respect de l'intégrité et des choix du personnage).
+* Assumer les risques : Accepter pleinement les conséquences d'un contrôle de police, d'une descente, d'une trahison ou d'une perquisition.
 
-### À retenir
+**3. Bonnes Pratiques Opérationnelles**
 
-Le trafic doit générer des scènes, pas seulement du farm.
+* Cohérence narrative : Intégrez votre activité illicite dans l'histoire de votre groupe et adaptez votre discrétion au niveau de tension de la zone.
+* Transparence et Pédagogie : Expliquez les enjeux d'une transaction ou d'un contrôle aux participants pour que la tension reste constructive.
+* Traçabilité rigoureuse : Conservez des traces des gros coups, des livraisons ou des litiges en cas de suivi judiciaire ou d'enquête de la SASP.
+* Le Recours Exclusif aux Instances RP : Les différends liés au trafic (vols de marchandises, arnaques entre criminels, descentes) se règlent par le jeu. N'invoquez le staff qu'en dernier recours, si le cadre RP ne suffit plus ou face à un comportement HRP.
