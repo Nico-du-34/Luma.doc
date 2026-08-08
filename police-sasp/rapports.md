@@ -6,20 +6,25 @@ Les rapports d'intervention constituent la mémoire de la San Andreas State Poli
 
 Cette page encadre le travail de la SASP. Les agents doivent agir avec professionnalisme, proportion et respect du cadre légal RP.
 
-### Règles principales
+### Les Éléments Indispensables d'un Rapport
 
-* date et agents présents
-* faits constatés
-* personnes impliquées
-* mesures prises et preuves utiles
+*   Pour être exploitable par la hiérarchie ou par la justice, un rapport doit obligatoirement contenir :
 
-### Bonnes pratiques
+    * Date, Heure et Effectifs : L'horodatage précis de l'intervention et l'identité (noms/matricules) de tous les agents présents sur la scène.
+    * Faits Constatés : Une description chronologique, neutre et purement factuelle de la situation à l'arrivée des agents et du déroulement des événements.
+    * Personnes Impliquées : L'identité et le rôle de chaque individu présent (suspects interpellés, victimes secourues, témoins auditionnés).
+    * Mesures Prises et Preuves : Le détail des actions policières (usage de la force, arrestations, droits lus), l'inventaire des saisies réalisées et les éléments de preuve rattachés au dossier.
 
-* rester cohérent avec la scène en cours
-* expliquer les décisions importantes aux personnes concernées
-* garder une trace lorsqu’un litige est possible
-* faire appel au staff seulement si le cadre RP ne suffit plus
 
-### À retenir
 
-Un rapport clair évite beaucoup de contestations.
+### Bonnes pratiques de Rédaction et de Gestion
+
+* Cohérence et Objectivité : Le rapport doit rester parfaitement fidèle à la scène telle qu'elle a été jouée. Il ne doit comporter aucun jugement de valeur ni aucune information obtenue de manière HRP (Metagaming).
+* Transparence et Dialogue : Sur le terrain, expliquez toujours aux personnes concernées les décisions importantes qui figureront dans la procédure.
+* Traçabilité Systématique : Prenez l'habitude de rédiger une trace écrite lorsqu'une situation est tendue, qu'elle implique des saisies importantes ou qu'un litige (judiciaire ou disciplinaire) est prévisible.
+* Le Recours Exclusif aux Instances RP : Un rapport de police est un document légal contestable devant un juge en RolePlay. N'invoquez le staff qu'en cas de triche avérée ou si les limites du cadre RP sont franchies.
+
+💡 À retenir :
+
+> Un rapport clair, précis et objectif est le meilleur bouclier d'un agent. Il solidifie le dossier d'accusation, sécurise le travail de la justice et évite l'immense majorité des contestations ultérieures.
+
