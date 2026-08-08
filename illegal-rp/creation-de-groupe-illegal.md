@@ -4,51 +4,39 @@ description: Bases attendues pour lancer un groupe illégal cohérent et jouable
 
 # 👥 Création de groupe illégal
 
-Créer un groupe illégal demande un projet RP clair. Le groupe doit apporter du jeu, pas seulement de la pression.
+Créer un groupe illégal demande un projet RP solide et réfléchi. L'ensemble de la création et de la gestion s'effectuant directement en jeu (notamment via le téléphone et les fonctionnalités in-game), il n'y a pas besoin de dossier administratif ni d'intervention du staff en amont : la démarche repose entièrement sur l'initiative des joueurs, l'immersion et la cohérence de leur projet.
 
-### Attendus de base
+**1. Fondations et Attendus de Base**
 
-Le groupe doit définir :
+Pour qu'un groupe trouve sa place de manière organique sur le serveur, ses membres doivent définir en amont :
 
-* une identité
-* un objectif
-* une zone d’action ou un réseau
-* une logique de fonctionnement
+* Une identité : Nom, style, codes vestimentaires ou culture propre au clan.
+* Un objectif : Le but recherché par le groupe (argent, pouvoir, influence, survie).
+* Une zone d'action ou un réseau : Le territoire, les quartiers ou les secteurs où le groupe déploie ses activités.
+* Une logique de fonctionnement : Une hiérarchie interne claire et des règles de vie de groupe.
 
-### Ce qu’un dossier doit montrer
+**2. Ce que le Projet doit Refléter en Jeu**
 
-Le projet doit expliquer :
+Même sans dossier externe, le groupe doit savoir où il va et ce qu'il propose aux autres joueurs :
 
-* qui compose le groupe
-* quelle activité domine
-* quelles limites il se donne
-* quel type de scènes il veut créer
+* La composition : Qui forme le noyau dur et quels rôles chacun occupe.
+* L'activité dominante : Le secteur criminel principal sur lequel le groupe se positionne.
+* Les limites fixées : Les lignes rouges que le groupe s'interdit de franchir pour préserver le fair-play.
+* Le type de scènes recherché : La nature des interactions que le groupe souhaite créer (tension, négociation, conflits mesurés).
 
-### Taille et cohérence
+**3. Taille, Cohérence et Activités**
 
-Un groupe trop large sans cadre devient vite illisible. Privilégie une structure simple au départ.
+* Structure simple : Un groupe trop large et mal organisé devient vite illisible. Mieux vaut privilégier un petit comité soudé au départ et grandir progressivement par le RP.
+* Activités autorisées : Le groupe peut s'orienter vers des pratiques criminelles variées (trafic, protection, racket, corruption, logistique criminelle), à condition que chaque activité reste strictement compatible avec les règles générales du serveur.
 
-### Activités
+**4. Suivi et Vie du Groupe**
 
-Le groupe peut viser :
+Puisque tout se gère en jeu :
 
-* trafic
-* protection
-* racket
-* corruption
-* logistique criminelle
+* Le groupe doit faire preuve d'activité et de propreté dans ses interactions.
+* Un groupe qui dériverait vers du troll, de l'inactivité chronique ou des comportements toxiques avérés s'exposera naturellement à des sanctions en jeu ou à une fermeture de structure par l'administration si le cadre global est bafoué.
+
+> 💡 À retenir : Le jeu illégal se construit manette ou clavier en main, par les actions, les alliances et les conflits menés directement avec les autres acteurs du serveur.
 
 Chaque activité doit rester compatible avec les règles serveur.
 
-### Refus possibles
-
-Un projet peut être refusé s’il :
-
-* manque de cohérence
-* copie un groupe existant sans valeur ajoutée
-* repose uniquement sur la violence
-* ne propose aucun vrai RP
-
-### Après validation
-
-Le groupe doit rester actif et propre. Un groupe inactif ou toxique peut être repris ou fermé.
