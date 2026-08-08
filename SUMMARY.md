@@ -73,7 +73,7 @@
 * [🚨 Arrestations](police-sasp/arrestations.md)
 * [✋ Usage de la force](police-sasp/usage-de-la-force.md)
 * [📋 Rapports](police-sasp/rapports.md)
-* [⚠️ Sanctions internes](police-sasp/sanctions-internes.md)
+* [⚠️ Sanctions Internes et Mesures Disciplinaires](police-sasp/sanctions-internes.md)
 
 ## 🏥 Médical - SAMS
 
