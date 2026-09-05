@@ -3,6 +3,9 @@
 ## 🏠 Accueil
 
 * [👋 Bienvenue sur LUMA Roleplay](README.md)
+* [📜 Charte de LUMA Roleplay](accueil/readme-1.md)
+* [⁉️ Pourquoi LUMA Roleplay ?](accueil/readme-2.md)
+* [⭐ Programme Ambassadeur LUMA](accueil/readme-3.md)
 * [❓ Comment lire la documentation](accueil/comment-lire-la-documentation.md)
 * [😎 Différence entre RP et HRP](accueil/difference-entre-rp-et-hrp.md)
 * [🏔️ Hiérarchie des documents](accueil/hierarchie-des-documents.md)
