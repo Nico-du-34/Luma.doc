@@ -4,7 +4,7 @@ description: Base des infractions RP et de leur qualification.
 
 # ⚖️ Code pénal
 
-Le code pénal pose le cadre général permettant de qualifier les infractions commises en RolePlay. Il sert à nommer précisément les faits et à guider la sanction, tandis que les montants et durées détaillés relèvent des [Barèmes](../baremes/bareme-des-amendes-et-peines.md) officiels.
+Le code pénal pose le cadre général permettant de qualifier les infractions commises en RolePlay. Il sert à nommer précisément les faits et à guider la sanction, tandis que les montants et durées détaillés relèvent des [Barèmes](../lois-baremes-and-amendes/bareme-des-amendes-et-peines.md) officiels.
 
 ### Principes d’application
 

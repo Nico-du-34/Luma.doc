@@ -17,7 +17,30 @@ Pour qu'un braquage reste immersif et équilibré pour tous, plusieurs règles d
 * Éviter les otages décoratifs : L'otage ne doit pas être un simple "accessoire" passif. Impliquez-le dans la scène et faites-en un acteur à part entière de la négociation.
 * Prévoir une sortie de scène réaliste : Réfléchissez à l'avant-scène à vos plans de fuite et acceptez la défaite, l'arrestation ou la riposte policière si les choses tournent mal.
 
-**3. Bonnes Pratiques Opérationnelles**
+**3. Barème obligatoire : délais police et otages**
+
+Chaque type de braquage impose un **temps d'attente minimum pour la police** et, le cas échéant, un **nombre minimum d'otages**. Ces seuils s'appliquent à tous les joueurs, sans exception.
+
+| Type                | Attente police | Otages min. |
+| ------------------- | -------------- | ----------- |
+| Braquage 24/7       | 5 min          | 0           |
+| Liquor Store        | 5 min          | 0           |
+| Magasin de vêtement | 5 min          | 0           |
+| Salon de tatouage   | 5 min          | 0           |
+| Bijouterie          | 8 min          | 2           |
+| Fleeca bank         | 8 min          | 3           |
+| Braquage de train   | 10 min         | 3           |
+| Pacific bank        | 10 min         | 5           |
+
+Règles d'application du barème :
+
+* Le chronomètre démarre une fois la scène engagée et la police alertée (appel, alarme, signalement clair).
+* Il est interdit de quitter les lieux ou de fuir avant la fin du délai d'attente, sauf issue RP claire (négociation aboutie, intervention policière déjà engagée sur place, abandon volontaire de la scène).
+* Quand un minimum d'otages est requis, ce nombre doit être atteint **avant** ou **au démarrage** de la phase de braquage formalisée ; un otage décoratif ou AFK ne compte pas.
+* Un braquage hors barème (cible non listée) doit être validé par le staff avant d'être joué, ou calé sur la catégorie la plus proche en difficulté.
+* Le non-respect du barème (fuite anticipée, otages insuffisants) peut entraîner l'annulation RP du butin, des sanctions RP et/ou HRP.
+
+**4. Bonnes Pratiques Opérationnelles**
 
 * Cohérence narrative : Restez fair-play et adaptez votre jeu au déroulement des événements, qu'ils soient en votre faveur ou non.
 * Transparence et Pédagogie : Maintenez une communication claire et fluide avec les négociateurs de la police (SASP) et les otages pour que chacun comprenne les limites de la scène.
