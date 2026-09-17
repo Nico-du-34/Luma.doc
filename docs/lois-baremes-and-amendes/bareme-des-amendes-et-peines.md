@@ -4,7 +4,7 @@ description: Repère de lecture pour qualifier et graduer les sanctions de faço
 
 # 🧾 Barème des amendes et peines
 
-Cette page guide **comment lire et appliquer** les sanctions. Les **montants exacts** et les durées de détention sont dans le [Google Sheet officiel des sanctions](https://docs.google.com/spreadsheets/d/1pt_62MiK1Zn6mPJQ4NTV387kuWd8YfAMwxfiukUO7YM/edit?gid=0#gid=0).
+Cette page guide **comment lire et appliquer** les sanctions. Les **montants exacts** et les durées de détention sont dans le [Google Sheet officiel Bareme Amande Luma Roleplay](https://docs.google.com/spreadsheets/d/1L-e0jy03V4aE5Ux4SqtmzztaSMzOyHkZ6jMXmqIf-Ew/edit#gid=1256197113).
 
 N’invente pas de chiffres hors grille. Le Sheet reste la référence chiffrée.
 
@@ -56,7 +56,7 @@ Exemples typiques :
 * homicide, évasion, corruption lourde ;
 * récidive lourde ou organisation en groupe sur faits graves.
 
-La qualification fine reste celle du [Code pénal](../lois-codes/code-penal.md). Les montants et durées : le Sheet.
+La qualification fine reste celle du Code pénal. Les montants et durées : le Sheet.
 
 ## Facteurs d’ajustement
 
@@ -89,12 +89,12 @@ Pour moduler (à la hausse ou à la baisse) en restant dans la grille :
 
 ## Documents liés
 
-* [Peines complémentaires](peines-complementaires.md)
-* [Saisies](saisies.md)
-* [Confiscations](confiscations.md)
-* [Barème fourrière](bareme-fourriere.md)
-* [Suspensions de permis](suspensions-de-permis.md)
+* Peines complémentaires
+* Saisies
+* Confiscations
+* Barème fourrière
+* Suspensions de permis
 
 {% hint style="info" %}
-Le [Google Sheet des sanctions](https://docs.google.com/spreadsheets/d/1pt_62MiK1Zn6mPJQ4NTV387kuWd8YfAMwxfiukUO7YM/edit?gid=0#gid=0) est le guide chiffré commun. Il ne remplace ni l’appréciation du juge, ni le respect de la procédure.
+Le [Google Sheet Bareme Amande Luma Roleplay](https://docs.google.com/spreadsheets/d/1L-e0jy03V4aE5Ux4SqtmzztaSMzOyHkZ6jMXmqIf-Ew/edit#gid=1256197113) (onglet Bareme complet) est le guide chiffré commun. Voir aussi Justice RP, Récidive & cumul, Drogues - detail. Il ne remplace ni l’appréciation du juge, ni le respect de la procédure.
 {% endhint %}
