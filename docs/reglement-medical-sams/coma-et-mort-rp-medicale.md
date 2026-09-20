@@ -27,9 +27,12 @@ Le réveil après un coma lourd n'est pas un retour magique à la normale. Il do
 La mort définitive d'un personnage (Death of Character / Wipe) est une décision lourde de sens qui ne doit jamais être prise à la légère.
 
 * Le rôle du SAMS :
-  * Le personnel médical est habilité à constater officiellement le décès en RP (arrêt irréversible des fonctions vitales, absence de pouls, etc.).
-  * Cependant, une mort définitive de personnage ne se décrète pas sur un simple coup de tête : elle doit obéir strictement aux règles globales du serveur, au contexte de la scène et, le cas échéant, nécessiter une validation par l'administration (Staff).
-* La transition : Une fois le décès constaté et acté selon les règles du serveur, la prise en charge s'oriente vers la gestion des corps, l'implication de la police pour les enquêtes de homicide et le respect des protocoles funéraires.
+  * Le personnel médical est habilité à **constater** officiellement le décès en RP (arrêt irréversible des fonctions vitales, absence de pouls, etc.).
+  * Le SAMS peut **déposer un dossier** de mort RP auprès du staff.
+  * **Obligatoire :** une mort RP définitive n’est effective qu’après **dossier** et **acceptation par le staff**. Un constat médical seul ne suffit pas.
+* La transition : Une fois le décès **validé par le staff**, la prise en charge s'oriente vers la gestion des corps, l'implication de la police pour les enquêtes de homicide et le respect des protocoles funéraires.
+
+Cadre global : Mort RP et wipe.
 
 **4. Bonnes Pratiques et Rappel**
 
@@ -38,4 +41,4 @@ La mort définitive d'un personnage (Death of Character / Wipe) est une décisio
 * Traçabilité rigoureuse : Consignez les diagnostics de coma prolongé et les constats de décès dans les registres officiels pour éviter tout litige ultérieur.
 * Le Recours Exclusif aux Instances RP : Les contestations sur l'état de santé ou les suites d'un coma se règlent par le dialogue constructif. N'invoquez le staff qu'en cas de non-respect manifeste des règles du serveur.
 
-> 💡 À retenir : Le coma et la mort médicale ne sont pas des punitions, mais des outils narratifs puissants. Joués avec sérieux, ils renforcent la valeur de la vie sur le serveur et offrent des perspectives de RolePlay inoubliables.
+> 💡 À retenir : Le coma et la mort médicale ne sont pas des punitions, mais des outils narratifs puissants. Une mort RP définitive passe toujours par un **dossier accepté par le staff**.
