@@ -1,7 +1,7 @@
 ---
 description: >-
-  Cadre RP des sociétés, factures, licences, concurrence et litiges commerciaux
-  à San Andreas.
+  Cadre RP des sociétés, factures, licences, concurrence, litiges commerciaux et
+  contrôles d’argent liquide à San Andreas.
 ---
 
 # 🏪 Code du commerce
@@ -10,7 +10,7 @@ Le code du commerce encadre les transactions, la création et la gestion des soc
 
 Ces règles servent de base aux scènes, contrôles et décisions judiciaires.
 
-Pour le cadre joueur (création, coffres, animation) : [Règlement entreprises RP](../reglement-entreprises-rp/reglement-entreprises-rp.md).
+Pour le cadre joueur (création, coffres, animation) : Règlement entreprises RP.
 
 ## Sociétés et structures
 
@@ -20,7 +20,7 @@ Pour le cadre joueur (création, coffres, animation) : [Règlement entreprises R
 
 **Obligatoire :** le dossier de création présente concept, dirigeants, besoins matériels et valeur ajoutée pour la ville.
 
-Voir [Création d’entreprise](../reglement-entreprises-rp/creation-dentreprise.md) et [Dossier de création](../reglement-entreprises-rp/dossier-de-creation.md).
+Voir Création d’entreprise et Dossier de création.
 
 ### Gestion et responsabilité
 
@@ -34,13 +34,33 @@ Voir [Création d’entreprise](../reglement-entreprises-rp/creation-dentreprise
 
 **Interdit :** faire travailler sans rémunération cohérente ni prime hebdomadaire.
 
-Détail et sanctions administratives : [Règlement entreprises RP](../reglement-entreprises-rp/reglement-entreprises-rp.md) (section obligations du patron).
+Détail et sanctions administratives : Règlement entreprises RP (section obligations du patron).
 
 ## Prix et économie
 
 **Obligatoire :** prix cohérents avec l’économie du serveur.
 
 **Interdit :** tarifs absurdes, spéculation excessive, inflation artificielle.
+
+## Argent liquide (seuil 10 000 $)
+
+Un citoyen peut disposer de ses finances dans un cadre légal et détenir un compte bancaire.
+
+### Possession sur soi
+
+**Obligatoire :** toute personne en possession d’une somme **supérieure à 10 000 $ en liquide** doit, en cas de contrôle par les forces de l’ordre, **justifier la provenance** de cet argent, **la prouver**, et **en définir l’usage** à venir.
+
+**Conséquence :** si la provenance n’est pas légitime ou ne peut pas être justifiée, la police peut **saisir** et **confisquer** la somme le temps d’une enquête.
+
+### Transactions
+
+**Interdit :** les transactions **supérieures à 10 000 $ en argent liquide**.
+
+**Interdit :** fractionner volontairement une même opération en plusieurs paiements pour contourner ce plafond.
+
+Les montants élevés doivent passer par des moyens traçables (virement, chèque, facture, compte société, etc.).
+
+Voir aussi Économie serveur et le Barème des amendes et peines.
 
 ## Factures, contrats et traçabilité
 
@@ -54,7 +74,7 @@ Une facture valide indique au minimum :
 
 **Interdit :** fausses factures, factures de complaisance, montants disproportionnés visant un transfert d’argent injustifié.
 
-Détail pratique : [Factures](../reglement-entreprises-rp/factures.md).
+Détail pratique : Factures.
 
 ## Licences et agréments
 
@@ -69,7 +89,7 @@ Secteurs typiquement concernés :
 
 Une licence peut être **suspendue** ou **révoquée** en cas d’abus, de fraude ou de non-respect de la loi.
 
-Détail : [Licences commerciales](../reglement-entreprises-rp/licences-commerciales.md).
+Détail : Licences commerciales.
 
 ## Concurrence déloyale et fraudes
 
@@ -94,7 +114,7 @@ Le staff **n’arbitre pas** la gestion financière ni les choix stratégiques d
 
 En contrôle fiscal, litige entre associés ou contentieux : la solidité du dossier repose sur factures, contrats, comptabilité et archives.
 
-Pages utiles : [Litiges client / entreprise](../reglement-vie-civile/litiges-client-entreprise.md), [Contrats](../reglement-vie-civile/contrats.md), [Coffres et argent société](../reglement-entreprises-rp/coffres-et-argent-societe.md).
+Pages utiles : Litiges client / entreprise, Contrats, Coffres et argent société.
 
 ## Bonnes pratiques
 
@@ -104,5 +124,5 @@ Pages utiles : [Litiges client / entreprise](../reglement-vie-civile/litiges-cli
 * Animer : événements, partenariats, litiges jouables (client mécontent, licenciement, concurrence agressive).
 
 {% hint style="info" %}
-Le code du commerce protège les clients et la santé économique du serveur. Il permet à chaque entrepreneur de prospérer en toute légitimité — à condition de tenir la comptabilité, de facturer proprement et de primer ses employés chaque semaine.
+Le code du commerce protège les clients et la santé économique du serveur. Au-delà de **10 000 $** en liquide, la traçabilité et la justification deviennent obligatoires en contrôle.
 {% endhint %}

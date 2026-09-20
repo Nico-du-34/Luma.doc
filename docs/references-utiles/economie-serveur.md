@@ -12,6 +12,8 @@ Cette page sert de repère pratique. Elle permet de retrouver rapidement les inf
 * limitation des abus de farm
 * traçabilité des grosses transactions
 * contrôle des entreprises et trafics
+* **argent liquide > 10 000 $** : justification de provenance et d’usage en contrôle police ; saisie possible sinon — détail dans le Code du commerce
+* **interdit** : transaction > 10 000 $ payée entièrement en liquide (et fractionnement pour contourner)
 
 ### Bonnes pratiques
 
@@ -22,4 +24,4 @@ Cette page sert de repère pratique. Elle permet de retrouver rapidement les inf
 
 ### À retenir
 
-Un gain doit s’accompagner d’un risque ou d’un effort RP.
+Un gain doit s’accompagner d’un risque ou d’un effort RP. Au-delà de 10 000 $ en liquide, compte bancaire / facture / virement restent la voie normale.
